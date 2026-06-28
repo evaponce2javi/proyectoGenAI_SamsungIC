@@ -1,0 +1,1 @@
+# proyectoGenAI_SamsungIC
